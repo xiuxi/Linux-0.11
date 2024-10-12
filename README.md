@@ -1,5 +1,8 @@
 https://mirrors.edge.kernel.org/pub/linux/kernel/Historic/old-versions/
 https://mirrors.edge.kernel.org/pub/linux/kernel/Historic/old-versions/linux-0.12.tar.gz
+https://kernel.googlesource.com/pub/scm/linux/kernel/git/nico/archive/+/v0.11
+https://github.com/xiuxi/linux-0.11_2?tab=readme-ov-file
+
 
 Linux-0.11
 ==========
